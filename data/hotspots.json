@@ -1,0 +1,2213 @@
+{
+  "Centurion remains": {
+    "level": 1,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.2529048600754813,
+    "avgPrice": null,
+    "minPrice": null,
+    "maxPrice": null,
+    "priceVolatility": null,
+    "score": null,
+    "materials": [
+      {
+        "name": "Imperial iron",
+        "percentageChance": 0.5
+      },
+      {
+        "name": "Purpleheart wood",
+        "percentageChance": 0.5
+      }
+    ]
+  },
+  "Venator remains": {
+    "level": 5,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.26486577358982444,
+    "avgPrice": 5383,
+    "minPrice": 4730,
+    "maxPrice": 6036,
+    "priceVolatility": 0.21636845593108017,
+    "score": 1117.2802737205002,
+    "materials": [
+      {
+        "name": "Third Age iron",
+        "percentageChance": 0.5
+      },
+      {
+        "name": "Zarosian insignia",
+        "percentageChance": 0.5
+      }
+    ]
+  },
+  "Legionary remains": {
+    "level": 12,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.2871745887492594,
+    "avgPrice": 3041,
+    "minPrice": 1994,
+    "maxPrice": 4730,
+    "priceVolatility": 0.5784355179704017,
+    "score": 368.1513871515172,
+    "materials": [
+      {
+        "name": "Third Age iron",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Samite silk",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Imperial steel",
+        "percentageChance": 0.4
+      }
+    ]
+  },
+  "Fort debris": {
+    "level": 12,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.2871745887492594,
+    "avgPrice": 3789.75,
+    "minPrice": 1994,
+    "maxPrice": 6036,
+    "priceVolatility": 0.6696487740225314,
+    "score": 359.52781246499944,
+    "materials": [
+      {
+        "name": "Third Age iron",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Zarosian insignia",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Imperial steel",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Samite silk",
+        "percentageChance": 0.2
+      }
+    ]
+  },
+  "Castra debris": {
+    "level": 17,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.3042508784176484,
+    "avgPrice": 3753.75,
+    "minPrice": 1850,
+    "maxPrice": 6036,
+    "priceVolatility": 0.69350563286945,
+    "score": 350.04161853735224,
+    "materials": [
+      {
+        "name": "Samite silk",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "White oak",
+        "percentageChance": 0.4
+      },
+      {
+        "name": "Third Age iron",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Zarosian insignia",
+        "percentageChance": 0.2
+      }
+    ]
+  },
+  "Lodge bar storage": {
+    "level": 20,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.314980262473719,
+    "avgPrice": 3152.3333333333335,
+    "minPrice": 2161,
+    "maxPrice": 4730,
+    "priceVolatility": 0.5431289640591966,
+    "score": 453.63765944498726,
+    "materials": [
+      {
+        "name": "Third Age iron",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Goldrune",
+        "percentageChance": 0.4
+      },
+      {
+        "name": "Orthenglass",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Lodge art storage": {
+    "level": 24,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.3298769776932242,
+    "avgPrice": 3870.5,
+    "minPrice": 1850,
+    "maxPrice": 9341,
+    "priceVolatility": 0.8019483995289584,
+    "score": 252.87007365367788,
+    "materials": [
+      {
+        "name": "Samite silk",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "White oak",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Vellum",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Cadmium red",
+        "percentageChance": 0.4
+      }
+    ]
+  },
+  "Administratum debris": {
+    "level": 25,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.33370996354250937,
+    "avgPrice": 3852.5,
+    "minPrice": 1967,
+    "maxPrice": 6036,
+    "priceVolatility": 0.6741219350563287,
+    "score": 418.954587003805,
+    "materials": [
+      {
+        "name": "Goldrune",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Zarosian insignia",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Ancient vis",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Tyrian purple",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Cultist footlocker": {
+    "level": 29,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.3494924835447556,
+    "avgPrice": 3577.75,
+    "minPrice": 2046,
+    "maxPrice": 5323,
+    "priceVolatility": 0.6156302836746196,
+    "score": 480.61463755825696,
+    "materials": [
+      {
+        "name": "Leather scraps",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Chaotic brimstone",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Demonhide",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Third Age iron",
+        "percentageChance": 0.2
+      }
+    ]
+  },
+  "Sacrificial altar": {
+    "level": 36,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.37892914162760016,
+    "avgPrice": 6006,
+    "minPrice": 1943,
+    "maxPrice": 10579,
+    "priceVolatility": 0.816334247093298,
+    "score": 417.99541440851283,
+    "materials": [
+      {
+        "name": "Goldrune",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Cadmium red",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Eye of Dagon",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Hellfire metal",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Prodromoi remains": {
+    "level": 42,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.40612619817811846,
+    "avgPrice": 3637,
+    "minPrice": 2116,
+    "maxPrice": 4730,
+    "priceVolatility": 0.5526427061310782,
+    "score": 660.7829512789422,
+    "materials": [
+      {
+        "name": "Third Age iron",
+        "percentageChance": 0.4
+      },
+      {
+        "name": "Keramos",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "White marble",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Dis dungeon debris": {
+    "level": 45,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.420448207626858,
+    "avgPrice": 5643.75,
+    "minPrice": 1943,
+    "maxPrice": 10579,
+    "priceVolatility": 0.816334247093298,
+    "score": 435.8213047543149,
+    "materials": [
+      {
+        "name": "Third Age iron",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Chaotic brimstone",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Hellfire metal",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Eye of Dagon",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Praesidio remains": {
+    "level": 47,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.43027571862216574,
+    "avgPrice": 2713,
+    "minPrice": 1967,
+    "maxPrice": 4730,
+    "priceVolatility": 0.5841437632135307,
+    "score": 485.444797977029,
+    "materials": [
+      {
+        "name": "Third Age iron",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Imperial steel",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Ancient vis",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Goldrune",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Monoceros remains": {
+    "level": 48,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.43527528164806273,
+    "avgPrice": 5290.333333333333,
+    "minPrice": 2046,
+    "maxPrice": 9760,
+    "priceVolatility": 0.7903688524590164,
+    "score": 482.72840416135506,
+    "materials": [
+      {
+        "name": "Cobalt blue",
+        "percentageChance": 0.4
+      },
+      {
+        "name": "Leather scraps",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Keramos",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Orthen rubble": {
+    "level": 90,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.7071067811865479,
+    "avgPrice": 2566,
+    "minPrice": 2566,
+    "maxPrice": 2566,
+    "priceVolatility": 0,
+    "score": 1814.436000524682,
+    "materials": [
+      {
+        "name": "Orthenglass"
+      }
+    ]
+  },
+  "Dragonkin remains": {
+    "level": 70,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.5612310241546871,
+    "avgPrice": 2566,
+    "minPrice": 2566,
+    "maxPrice": 2566,
+    "priceVolatility": 0,
+    "score": 1440.118807980927,
+    "materials": [
+      {
+        "name": "Orthenglass"
+      }
+    ]
+  },
+  "Amphitheatre debris": {
+    "level": 51,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.45062523130541576,
+    "avgPrice": 4277,
+    "minPrice": 1850,
+    "maxPrice": 6904,
+    "priceVolatility": 0.7320393974507532,
+    "score": 516.4469309737162,
+    "materials": [
+      {
+        "name": "Goldrune",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "White oak",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Everlight silvthril",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Star of Saradomin",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Ceramics studio debris": {
+    "level": 56,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.47742080195520886,
+    "avgPrice": 2138.5,
+    "minPrice": 2116,
+    "maxPrice": 2161,
+    "priceVolatility": 0.020823692734844978,
+    "score": 999.7041363351453,
+    "materials": [
+      {
+        "name": "White marble",
+        "percentageChance": 0.5
+      },
+      {
+        "name": "Goldrune",
+        "percentageChance": 0.5
+      }
+    ]
+  },
+  "Carcerem debris": {
+    "level": 58,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.4885799842171237,
+    "avgPrice": 3835.25,
+    "minPrice": 1892,
+    "maxPrice": 9321,
+    "priceVolatility": 0.7970174873940564,
+    "score": 380.35398770677233,
+    "materials": [
+      {
+        "name": "Goldrune",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Vellum",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Blood of Orcus",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Ancient vis",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Ministry remains": {
+    "level": 60,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.5000000000000007,
+    "avgPrice": 2872.75,
+    "minPrice": 1967,
+    "maxPrice": 5246,
+    "priceVolatility": 0.6250476553564621,
+    "score": 538.5721740373624,
+    "materials": [
+      {
+        "name": "Ancient vis",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Imperial steel",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Soapstone",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Tyrian purple",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Stadio debris": {
+    "level": 61,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.5058097201509619,
+    "avgPrice": 4524.5,
+    "minPrice": 2399,
+    "maxPrice": 6904,
+    "priceVolatility": 0.6525202780996524,
+    "score": 795.2198802283375,
+    "materials": [
+      {
+        "name": "Keramos",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Third Age iron",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Samite silk",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Star of Saradomin",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Cathedral debris": {
+    "level": 62,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.5116869459983882,
+    "avgPrice": 3932.75,
+    "minPrice": 1850,
+    "maxPrice": 9321,
+    "priceVolatility": 0.8015234416908057,
+    "score": 399.4016895417925,
+    "materials": [
+      {
+        "name": "Samite silk",
+        "percentageChance": 0.4
+      },
+      {
+        "name": "Blood of Orcus",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Goldrune",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "White oak",
+        "percentageChance": 0.2
+      }
+    ]
+  },
+  "Marketplace debris": {
+    "level": 63,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.5176324619206893,
+    "avgPrice": 2774.75,
+    "minPrice": 1892,
+    "maxPrice": 5246,
+    "priceVolatility": 0.639344262295082,
+    "score": 518.0100790445495,
+    "materials": [
+      {
+        "name": "Imperial steel",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Tyrian purple",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Ancient vis",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Vellum",
+        "percentageChance": 0.2
+      }
+    ]
+  },
+  "Inquisitor remains": {
+    "level": 64,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.523647061410314,
+    "avgPrice": 4950.5,
+    "minPrice": 2046,
+    "maxPrice": 9321,
+    "priceVolatility": 0.7804956549726424,
+    "score": 569.024357342459,
+    "materials": [
+      {
+        "name": "Blood of Orcus",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Zarosian insignia",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Samite silk",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Leather scraps",
+        "percentageChance": 0.2
+      }
+    ]
+  },
+  "Infernal art": {
+    "level": 65,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.5297315471796482,
+    "avgPrice": 3937.75,
+    "minPrice": 1850,
+    "maxPrice": 9341,
+    "priceVolatility": 0.8019483995289584,
+    "score": 413.1258152047233,
+    "materials": [
+      {
+        "name": "Samite silk",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "White oak",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Cadmium red",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Goldrune",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Gladiator remains": {
+    "level": 66,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.5358867312681472,
+    "avgPrice": 3832,
+    "minPrice": 1967,
+    "maxPrice": 9321,
+    "priceVolatility": 0.7889711404355756,
+    "score": 433.35155197401946,
+    "materials": [
+      {
+        "name": "Imperial steel",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Blood of Orcus",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Leather scraps",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Ancient vis",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Citizen remains": {
+    "level": 67,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.5421134351507098,
+    "avgPrice": 2854,
+    "minPrice": 1892,
+    "maxPrice": 5246,
+    "priceVolatility": 0.639344262295082,
+    "score": 558.0035797744715,
+    "materials": [
+      {
+        "name": "Vellum",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Tyrian purple",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Imperial steel",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Soapstone",
+        "percentageChance": 0.2
+      }
+    ]
+  },
+  "Shakroth remains": {
+    "level": 68,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.5484124898473136,
+    "avgPrice": 5669.5,
+    "minPrice": 2046,
+    "maxPrice": 10579,
+    "priceVolatility": 0.8065979771244919,
+    "score": 601.3303293783345,
+    "materials": [
+      {
+        "name": "Third Age iron",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Leather scraps",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Chaotic brimstone",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Hellfire metal",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Dominion Games podium": {
+    "level": 69,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.5547847360339231,
+    "avgPrice": 4456,
+    "minPrice": 2161,
+    "maxPrice": 6904,
+    "priceVolatility": 0.6869930475086906,
+    "score": 773.7909927173864,
+    "materials": [
+      {
+        "name": "Goldrune",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Orthenglass",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Everlight silvthril",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Star of Saradomin",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Ikovian memorial": {
+    "level": 70,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.5612310241546871,
+    "avgPrice": 3760.75,
+    "minPrice": 1850,
+    "maxPrice": 5616,
+    "priceVolatility": 0.6705840455840456,
+    "score": 695.2816438863991,
+    "materials": [
+      {
+        "name": "Third Age iron",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "White oak",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Stormguard steel",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Wings of War",
+        "percentageChance": 0.2
+      }
+    ]
+  },
+  "Oikos studio debris": {
+    "level": 72,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.5743491774985181,
+    "avgPrice": 5533.5,
+    "minPrice": 2116,
+    "maxPrice": 9760,
+    "priceVolatility": 0.7831967213114754,
+    "score": 689.0357626561386,
+    "materials": [
+      {
+        "name": "Keramos",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "White marble",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Cobalt blue",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Everlight silvthril",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Kharid-et chapel debris": {
+    "level": 74,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.5877739531418049,
+    "avgPrice": 3496.75,
+    "minPrice": 1850,
+    "maxPrice": 5246,
+    "priceVolatility": 0.6473503621807091,
+    "score": 724.8002965497374,
+    "materials": [
+      {
+        "name": "White oak",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Third Age iron",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Goldrune",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Tyrian purple",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Forum entrance": {
+    "level": 74,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.5877739531418049,
+    "avgPrice": 3388,
+    "minPrice": 1967,
+    "maxPrice": 6036,
+    "priceVolatility": 0.6741219350563287,
+    "score": 648.9464591503983,
+    "materials": [
+      {
+        "name": "Ancient vis",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Goldrune",
+        "percentageChance": 0.4
+      },
+      {
+        "name": "Zarosian insignia",
+        "percentageChance": 0.4
+      },
+      {
+        "name": ""
+      }
+    ]
+  },
+  "Gladiatorial goblin remains": {
+    "level": 76,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.6015125180410589,
+    "avgPrice": 5858.25,
+    "minPrice": 2301,
+    "maxPrice": 9478,
+    "priceVolatility": 0.7572272631356827,
+    "score": 855.4851699705728,
+    "materials": [
+      {
+        "name": "Malachite green",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Mark of the Kyzaj",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Vulcanised rubber",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Warforged bronze",
+        "percentageChance": 0.2
+      }
+    ]
+  },
+  "Keshik ger": {
+    "level": 76,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.6015125180410589,
+    "avgPrice": 5957.5,
+    "minPrice": 1850,
+    "maxPrice": 10842,
+    "priceVolatility": 0.8293672754104409,
+    "score": 611.4642158757403,
+    "materials": [
+      {
+        "name": "Leather scraps",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Animal furs",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Armadylean yellow",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "White oak",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Animal trophies": {
+    "level": 81,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.6372803136596317,
+    "avgPrice": 6580.5,
+    "minPrice": 2566,
+    "maxPrice": 9341,
+    "priceVolatility": 0.7252970774007066,
+    "score": 1152.000522958941,
+    "materials": [
+      {
+        "name": "Orthenglass",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Animal furs",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Cadmium red",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Chaotic brimstone",
+        "percentageChance": 0.2
+      }
+    ]
+  },
+  "Pontifex remains": {
+    "level": 81,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.6372803136596317,
+    "avgPrice": 3039.5,
+    "minPrice": 1967,
+    "maxPrice": 6036,
+    "priceVolatility": 0.6741219350563287,
+    "score": 631.2302155062529,
+    "materials": [
+      {
+        "name": "Zarosian insignia",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Ancient vis",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Goldrune",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Imperial steel",
+        "percentageChance": 0.2
+      }
+    ]
+  },
+  "Crucible stands debris": {
+    "level": 81,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.6372803136596317,
+    "avgPrice": 3358.6666666666665,
+    "minPrice": 2047,
+    "maxPrice": 5728,
+    "priceVolatility": 0.6426326815642458,
+    "score": 764.9133492533354,
+    "materials": [
+      {
+        "name": "Fossilised bone",
+        "percentageChance": 0.4
+      },
+      {
+        "name": "Mark of the Kyzaj",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Warforged bronze",
+        "percentageChance": 0.3
+      },
+      {
+        "name": ""
+      }
+    ]
+  },
+  "Tailory debris": {
+    "level": 81,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.6372803136596317,
+    "avgPrice": 6123.5,
+    "minPrice": 2161,
+    "maxPrice": 10842,
+    "priceVolatility": 0.8006825308983583,
+    "score": 777.8137011161559,
+    "materials": [
+      {
+        "name": "Samite silk",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Armadylean yellow",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Animal furs",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Goldrune",
+        "percentageChance": 0.2
+      }
+    ]
+  },
+  "Goblin dorm debris": {
+    "level": 83,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.6521760348827826,
+    "avgPrice": 4853.25,
+    "minPrice": 1850,
+    "maxPrice": 9478,
+    "priceVolatility": 0.8048111415910529,
+    "score": 617.8065711537772,
+    "materials": [
+      {
+        "name": "White oak",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Malachite green",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Vulcanised rubber",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Yu'biusk clay"
+      }
+    ]
+  },
+  "Barricade": {
+    "level": 83,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.6521760348827826,
+    "avgPrice": 4853.25,
+    "minPrice": 1850,
+    "maxPrice": 9478,
+    "priceVolatility": 0.8048111415910529,
+    "score": 617.8065711537772,
+    "materials": [
+      {
+        "name": "White oak"
+      },
+      {
+        "name": "Malachite green"
+      },
+      {
+        "name": "Vulcanised rubber"
+      },
+      {
+        "name": "Yu'biusk clay"
+      }
+    ]
+  },
+  "Oikos fishing hut remnants": {
+    "level": 84,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.6597539553864477,
+    "avgPrice": 4997,
+    "minPrice": 2161,
+    "maxPrice": 6904,
+    "priceVolatility": 0.6869930475086906,
+    "score": 1031.9183521230875,
+    "materials": [
+      {
+        "name": "Third Age iron",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Goldrune",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Everlight silvthril",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Star of Saradomin",
+        "percentageChance": 0.2
+      }
+    ]
+  },
+  "Weapons research debris": {
+    "level": 85,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.6674199270850176,
+    "avgPrice": 4204.25,
+    "minPrice": 2566,
+    "maxPrice": 5788,
+    "priceVolatility": 0.5566689702833448,
+    "score": 1243.9869706626603,
+    "materials": [
+      {
+        "name": "Orthenglass",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Wings of War",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Stormguard steel",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Aetherium alloy",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Orcus altar": {
+    "level": 86,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.6751749730840955,
+    "avgPrice": 3793.5,
+    "minPrice": 1892,
+    "maxPrice": 9321,
+    "priceVolatility": 0.7970174873940564,
+    "score": 519.8942908128339,
+    "materials": [
+      {
+        "name": "Vellum",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Imperial steel",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Blood of Orcus",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Ancient vis",
+        "percentageChance": 0.2
+      }
+    ]
+  },
+  "Dis overspill": {
+    "level": 89,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.6989849670895102,
+    "avgPrice": 6648.25,
+    "minPrice": 1943,
+    "maxPrice": 10579,
+    "priceVolatility": 0.816334247093298,
+    "score": 853.4996773684526,
+    "materials": [
+      {
+        "name": "Third Age iron",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Cadmium red",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Eye of Dagon",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Hellfire metal",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Big High War God shrine": {
+    "level": 89,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.6989849670895102,
+    "avgPrice": 4084.75,
+    "minPrice": 2161,
+    "maxPrice": 9478,
+    "priceVolatility": 0.7719983118801435,
+    "score": 650.985596388805,
+    "materials": [
+      {
+        "name": "Samite silk",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Goldrune",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Malachite green",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Mark of the Kyzaj",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Varanusaur remains": {
+    "level": 90,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.7071067811865479,
+    "avgPrice": 2523.6666666666665,
+    "minPrice": 2161,
+    "maxPrice": 2818,
+    "priceVolatility": 0.23314407381121363,
+    "score": 1368.4557909421821,
+    "materials": [
+      {
+        "name": "Compass rose",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Felt",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Goldrune",
+        "percentageChance": 0.4
+      },
+      {
+        "name": ""
+      }
+    ]
+  },
+  "Gravitron research debris": {
+    "level": 91,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.7153229662176297,
+    "avgPrice": 3296,
+    "minPrice": 2046,
+    "maxPrice": 5616,
+    "priceVolatility": 0.6356837606837606,
+    "score": 858.9500356397201,
+    "materials": [
+      {
+        "name": "Orthenglass",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Stormguard steel",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Leather scraps",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Quintessence",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Acropolis debris": {
+    "level": 92,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.7236346187201894,
+    "avgPrice": 3633.75,
+    "minPrice": 2116,
+    "maxPrice": 6193,
+    "priceVolatility": 0.6583239140965607,
+    "score": 898.4397606747646,
+    "materials": [
+      {
+        "name": "Goldrune",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Keramos",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "White marble",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Everlight silvthril",
+        "percentageChance": 0.2
+      }
+    ]
+  },
+  "Armarium debris": {
+    "level": 93,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.7320428479728132,
+    "avgPrice": 4253.333333333333,
+    "minPrice": 1994,
+    "maxPrice": 6036,
+    "priceVolatility": 0.6696487740225314,
+    "score": 1028.5889264317095,
+    "materials": [
+      {
+        "name": "Third Age iron",
+        "percentageChance": 0.4
+      },
+      {
+        "name": "Zarosian insignia",
+        "percentageChance": 0.4
+      },
+      {
+        "name": "Imperial steel",
+        "percentageChance": 0.2
+      },
+      {
+        "name": ""
+      }
+    ]
+  },
+  "Yu'biusk animal pen": {
+    "level": 94,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.7405487761432825,
+    "avgPrice": 3965,
+    "minPrice": 2047,
+    "maxPrice": 5926,
+    "priceVolatility": 0.654573067836652,
+    "score": 1014.2687752268668,
+    "materials": [
+      {
+        "name": "Yu'biusk clay"
+      },
+      {
+        "name": "Fossilised bone"
+      },
+      {
+        "name": "Vulcanised rubber"
+      },
+      {
+        "name": "Warforged bronze"
+      }
+    ]
+  },
+  "Keshik tower debris": {
+    "level": 95,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.7491535384383412,
+    "avgPrice": 3118.5,
+    "minPrice": 1850,
+    "maxPrice": 5616,
+    "priceVolatility": 0.6705840455840456,
+    "score": 769.5931842587142,
+    "materials": [
+      {
+        "name": "White oak",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Goldrune",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Stormguard steel",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Wings of War",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Dragonkin reliquary": {
+    "level": 96,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.7578582832551994,
+    "avgPrice": 3733.3333333333335,
+    "minPrice": 2161,
+    "maxPrice": 6221,
+    "priceVolatility": 0.6526281948239833,
+    "score": 982.832106375301,
+    "materials": [
+      {
+        "name": "Dragon metal",
+        "percentageChance": 0.5
+      },
+      {
+        "name": "Compass rose",
+        "percentageChance": 0.25
+      },
+      {
+        "name": "Goldrune",
+        "percentageChance": 0.25
+      }
+    ]
+  },
+  "Goblin trainee remains": {
+    "level": 97,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.7666641723348007,
+    "avgPrice": 3637.75,
+    "minPrice": 2046,
+    "maxPrice": 5728,
+    "priceVolatility": 0.6428072625698324,
+    "score": 996.1864673700669,
+    "materials": [
+      {
+        "name": "Third Age iron",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Leather scraps",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Fossilised bone",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Warforged bronze",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Byzroth remains": {
+    "level": 98,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.7755723809168676,
+    "avgPrice": 4260.25,
+    "minPrice": 1850,
+    "maxPrice": 10579,
+    "priceVolatility": 0.8251252481330938,
+    "score": 577.8093048711606,
+    "materials": [
+      {
+        "name": "White oak",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Orthenglass",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Leather scraps",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Hellfire metal",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Destroyed golem": {
+    "level": 98,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.7755723809168676,
+    "avgPrice": 3230,
+    "minPrice": 1892,
+    "maxPrice": 5788,
+    "priceVolatility": 0.6731167933655839,
+    "score": 818.8747255293581,
+    "materials": [
+      {
+        "name": "Vellum",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Soapstone",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Aetherium alloy",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Quintessence",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Dragonkin coffin": {
+    "level": 99,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.7845840978967511,
+    "avgPrice": 3928.25,
+    "minPrice": 2284,
+    "maxPrice": 8085,
+    "priceVolatility": 0.7175015460729747,
+    "score": 870.6722362614337,
+    "materials": [
+      {
+        "name": "Orgone",
+        "percentageChance": 0.5
+      },
+      {
+        "name": "Carbon black",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Compass rose",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Soapstone",
+        "percentageChance": 0.1
+      }
+    ]
+  },
+  "Icyene weapon rack": {
+    "level": 100,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.7937005259841001,
+    "avgPrice": 4119.5,
+    "minPrice": 2046,
+    "maxPrice": 6193,
+    "priceVolatility": 0.6696269982238011,
+    "score": 1080.2038595439058,
+    "materials": [
+      {
+        "name": "Leather scraps",
+        "percentageChance": 0.5
+      },
+      {
+        "name": "Everlight silvthril",
+        "percentageChance": 0.5
+      }
+    ]
+  },
+  "Culinarum debris": {
+    "level": 100,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.7937005259841001,
+    "avgPrice": 3793.5,
+    "minPrice": 1892,
+    "maxPrice": 9321,
+    "priceVolatility": 0.7970174873940564,
+    "score": 611.1606450538284,
+    "materials": [
+      {
+        "name": "Imperial steel",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Ancient vis",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Vellum",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Blood of Orcus",
+        "percentageChance": 0.2
+      }
+    ]
+  },
+  "Kyzaj champion's boudoir": {
+    "level": 100,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.7937005259841001,
+    "avgPrice": 3245.6666666666665,
+    "minPrice": 1850,
+    "maxPrice": 5728,
+    "priceVolatility": 0.6770251396648045,
+    "score": 832.0114490100259,
+    "materials": [
+      {
+        "name": "White oak"
+      },
+      {
+        "name": "Yu'biusk clay"
+      },
+      {
+        "name": "Warforged bronze"
+      }
+    ]
+  },
+  "Autopsy table": {
+    "level": 101,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.8029228818633768,
+    "avgPrice": 3793,
+    "minPrice": 2566,
+    "maxPrice": 6221,
+    "priceVolatility": 0.587526121202379,
+    "score": 1256.183625730491,
+    "materials": [
+      {
+        "name": "Felt",
+        "percentageChance": 0.5
+      },
+      {
+        "name": "Dragon metal",
+        "percentageChance": 0.25
+      },
+      {
+        "name": "Orthenglass",
+        "percentageChance": 0.25
+      }
+    ]
+  },
+  "Experiment workbench": {
+    "level": 102,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.8122523963562358,
+    "avgPrice": 5624,
+    "minPrice": 2566,
+    "maxPrice": 8085,
+    "priceVolatility": 0.6826221397649969,
+    "score": 1449.8161764078875,
+    "materials": [
+      {
+        "name": "Dragon metal",
+        "percentageChance": 0.5
+      },
+      {
+        "name": "Orgone",
+        "percentageChance": 0.25
+      },
+      {
+        "name": "Orthenglass",
+        "percentageChance": 0.25
+      }
+    ]
+  },
+  "Keshik weapon rack": {
+    "level": 103,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.8216903145857906,
+    "avgPrice": 4301.75,
+    "minPrice": 2847,
+    "maxPrice": 5788,
+    "priceVolatility": 0.5081202487906012,
+    "score": 1738.6504607395561,
+    "materials": [
+      {
+        "name": "Stormguard steel",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Wings of War",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Aetherium alloy",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Quintessence",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Hellfire forge": {
+    "level": 104,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.8312378961427881,
+    "avgPrice": 6648.25,
+    "minPrice": 1943,
+    "maxPrice": 10579,
+    "priceVolatility": 0.816334247093298,
+    "score": 1014.9878889790905,
+    "materials": [
+      {
+        "name": "Cadmium red",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Third Age iron",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Eye of Dagon",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Hellfire metal",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Warforge scrap pile": {
+    "level": 104,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.8312378961427881,
+    "avgPrice": 5229,
+    "minPrice": 4730,
+    "maxPrice": 5728,
+    "priceVolatility": 0.174231843575419,
+    "score": 3589.236766016397,
+    "materials": [
+      {
+        "name": "Third Age iron",
+        "percentageChance": 0.5
+      },
+      {
+        "name": "Warforged bronze",
+        "percentageChance": 0.5
+      }
+    ]
+  },
+  "Stockpiled art": {
+    "level": 105,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.8408964152537148,
+    "avgPrice": 3975.25,
+    "minPrice": 1850,
+    "maxPrice": 9760,
+    "priceVolatility": 0.8104508196721312,
+    "score": 633.6199721582028,
+    "materials": [
+      {
+        "name": "Samite silk",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "White oak",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Vellum",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Cobalt blue",
+        "percentageChance": 0.4
+      }
+    ]
+  },
+  "Aughra remains": {
+    "level": 106,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.8506671609508559,
+    "avgPrice": 4912.5,
+    "minPrice": 2526,
+    "maxPrice": 8085,
+    "priceVolatility": 0.687569573283859,
+    "score": 1305.6162688386082,
+    "materials": [
+      {
+        "name": "Orgone",
+        "percentageChance": 0.5
+      },
+      {
+        "name": "Dragon metal",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Carbon black",
+        "percentageChance": 0.1
+      },
+      {
+        "name": "Compass rose",
+        "percentageChance": 0.2
+      }
+    ]
+  },
+  "Ancient magick munitions": {
+    "level": 107,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.8605514372443304,
+    "avgPrice": 3793.5,
+    "minPrice": 1892,
+    "maxPrice": 9321,
+    "priceVolatility": 0.7970174873940564,
+    "score": 662.6367934381083,
+    "materials": [
+      {
+        "name": "Vellum",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Imperial steel",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Ancient vis",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Blood of Orcus",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Moksha device": {
+    "level": 108,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.8705505632961243,
+    "avgPrice": 4476.333333333333,
+    "minPrice": 2526,
+    "maxPrice": 8085,
+    "priceVolatility": 0.687569573283859,
+    "score": 1217.5021644047092,
+    "materials": [
+      {
+        "name": "Orgone",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Carbon black",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Compass rose",
+        "percentageChance": 0.4
+      },
+      {
+        "name": ""
+      }
+    ]
+  },
+  "Bibliotheke debris": {
+    "level": 109,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.8806658735961487,
+    "avgPrice": 3268.25,
+    "minPrice": 1892,
+    "maxPrice": 6904,
+    "priceVolatility": 0.7259559675550405,
+    "score": 788.7634659171667,
+    "materials": [
+      {
+        "name": "Goldrune",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Vellum",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "White marble",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Star of Saradomin",
+        "percentageChance": 0.2
+      }
+    ]
+  },
+  "Chthonian trophies": {
+    "level": 110,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.8908987181403395,
+    "avgPrice": 2987.75,
+    "minPrice": 1850,
+    "maxPrice": 5323,
+    "priceVolatility": 0.652451625023483,
+    "score": 925.0982328534716,
+    "materials": [
+      {
+        "name": "White oak",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Chaotic brimstone",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Orthenglass",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Demonhide",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Warforge weapon rack": {
+    "level": 110,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.8908987181403395,
+    "avgPrice": 5751,
+    "minPrice": 2047,
+    "maxPrice": 9478,
+    "priceVolatility": 0.7840261658577758,
+    "score": 1106.5545797496695,
+    "materials": [
+      {
+        "name": "Fossilised bone",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Malachite green",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Warforged bronze",
+        "percentageChance": 0.4
+      }
+    ]
+  },
+  "Flight research debris": {
+    "level": 111,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.9012504626108304,
+    "avgPrice": 4463.25,
+    "minPrice": 2046,
+    "maxPrice": 10842,
+    "priceVolatility": 0.811289429994466,
+    "score": 759.0894241236834,
+    "materials": [
+      {
+        "name": "Samite silk",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Leather scraps",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Orthenglass",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Armadylean yellow",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Aetherium forge": {
+    "level": 112,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.9117224885582169,
+    "avgPrice": 3438,
+    "minPrice": 2161,
+    "maxPrice": 5788,
+    "priceVolatility": 0.6266413268832066,
+    "score": 1170.2934761140405,
+    "materials": [
+      {
+        "name": "Goldrune",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Wings of War",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Aetherium alloy",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Quintessence",
+        "percentageChance": 0.2
+      }
+    ]
+  },
+  "Xolo mine": {
+    "level": 113,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.9223161935859394,
+    "avgPrice": 5489,
+    "minPrice": 2161,
+    "maxPrice": 8085,
+    "priceVolatility": 0.7327149041434756,
+    "score": 1353.1558120751947,
+    "materials": [
+      {
+        "name": "Goldrune",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Dragon metal",
+        "percentageChance": 0.4
+      },
+      {
+        "name": "Orgone",
+        "percentageChance": 0.3
+      },
+      {
+        "name": ""
+      }
+    ]
+  },
+  "Praetorian remains": {
+    "level": 114,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.9330329915368075,
+    "avgPrice": 3099,
+    "minPrice": 1967,
+    "maxPrice": 6036,
+    "priceVolatility": 0.6741219350563287,
+    "score": 942.2664010271104,
+    "materials": [
+      {
+        "name": "Samite silk",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Imperial steel",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Zarosian insignia",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Ancient vis",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Bandos's sanctum debris": {
+    "level": 115,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.9438743126816936,
+    "avgPrice": 4806,
+    "minPrice": 2047,
+    "maxPrice": 9092,
+    "priceVolatility": 0.7748570171579411,
+    "score": 1021.3070953578535,
+    "materials": [
+      {
+        "name": "Fossilised bone"
+      },
+      {
+        "name": "Animal furs"
+      },
+      {
+        "name": "Vulcanised rubber"
+      },
+      {
+        "name": "Yu'biusk clay"
+      }
+    ]
+  },
+  "Tsutsaroth remains": {
+    "level": 116,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.9548416039104166,
+    "avgPrice": 4853.25,
+    "minPrice": 1943,
+    "maxPrice": 10579,
+    "priceVolatility": 0.816334247093298,
+    "score": 851.122713162709,
+    "materials": [
+      {
+        "name": "Third Age iron",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Goldrune",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Hellfire metal",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Eye of Dagon",
+        "percentageChance": 0.3
+      }
+    ]
+  },
+  "Optimatoi remains": {
+    "level": 117,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.9659363289248456,
+    "avgPrice": 3480.6666666666665,
+    "minPrice": 1850,
+    "maxPrice": 6193,
+    "priceVolatility": 0.7012756337800743,
+    "score": 1004.341903292507,
+    "materials": [
+      {
+        "name": "Samite silk",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "White oak",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Everlight silvthril",
+        "percentageChance": 0.4
+      }
+    ]
+  },
+  "War table debris": {
+    "level": 118,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.977159968434246,
+    "avgPrice": 2738.75,
+    "minPrice": 1850,
+    "maxPrice": 5246,
+    "priceVolatility": 0.6473503621807091,
+    "score": 943.75985466378,
+    "materials": [
+      {
+        "name": "White oak",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Vellum",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Tyrian purple",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Ancient vis",
+        "percentageChance": 0.2
+      }
+    ]
+  },
+  "Howl's workshop debris": {
+    "level": 118,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.977159968434246,
+    "avgPrice": 5467.5,
+    "minPrice": 2284,
+    "maxPrice": 10842,
+    "priceVolatility": 0.7893377605607822,
+    "score": 1125.4887418386018,
+    "materials": [
+      {
+        "name": "Aetherium alloy"
+      },
+      {
+        "name": "Soapstone"
+      },
+      {
+        "name": "Quintessence"
+      },
+      {
+        "name": "Armadylean yellow"
+      }
+    ]
+  },
+  "Makeshift pie oven": {
+    "level": 119,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.9885140203528962,
+    "avgPrice": 4640.333333333333,
+    "minPrice": 2159,
+    "maxPrice": 9478,
+    "priceVolatility": 0.7722093268622072,
+    "score": 1044.8836899261878,
+    "materials": [
+      {
+        "name": "Soapstone",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Malachite green",
+        "percentageChance": 0.3
+      },
+      {
+        "name": "Yu'biusk clay"
+      }
+    ]
+  },
+  "Xolo remains": {
+    "level": 119,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 0.9885140203528962,
+    "avgPrice": 4764.75,
+    "minPrice": 2161,
+    "maxPrice": 8085,
+    "priceVolatility": 0.7327149041434756,
+    "score": 1258.918729460437,
+    "materials": [
+      {
+        "name": "Orgone",
+        "percentageChance": 0.4
+      },
+      {
+        "name": "Goldrune",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Felt",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Dragon metal",
+        "percentageChance": 0.2
+      }
+    ]
+  },
+  "Saurthen debris": {
+    "level": 120,
+    "lastUpdated": 1690125663836,
+    "afkFactor": 1,
+    "avgPrice": 5489,
+    "minPrice": 2161,
+    "maxPrice": 8085,
+    "priceVolatility": 0.7327149041434756,
+    "score": 1467.1278911564623,
+    "materials": [
+      {
+        "name": "Dragon metal",
+        "percentageChance": 0.4
+      },
+      {
+        "name": "Orgone",
+        "percentageChance": 0.2
+      },
+      {
+        "name": "Goldrune",
+        "percentageChance": 0.4
+      }
+    ]
+  }
+}
