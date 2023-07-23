@@ -1,6 +1,30 @@
 import * as fs from "fs";
 import _fetch, { Headers } from "node-fetch";
 
+type THotspot = {
+    level: number;
+    materials: {
+        name: string,
+        percentageChance: number,
+    }[];
+
+    afkFactor: number;
+    avgPrice: number;
+    score: number;
+    minPrice: number;
+    maxPrice: number;
+    priceVolatility: number;
+
+    lastUpdated: number;
+};
+type THotspotJSON = Record<string, THotspot>;
+
+type TMatJSON = Record<string, {
+    readonly id: string;
+    price?: number;
+    timestamp?: string;
+}>;
+
 type TPriceData = Record<string, {
     id: string;
     price: number;
@@ -36,15 +60,11 @@ Materials: [${JSON.stringify(_hotspot.materials, null, "  ")}]\n\n\n`);
 }
 
 async function main() {
-    const hotspotsCSV = fs.readFileSync(
-        "./data/hotspots.csv",
-        "utf8"
-    );
-    const materialsJSON: Record<string, {
-        readonly id: string;
-        price?: number;
-        timestamp?: string;
-    }> = JSON.parse(fs.readFileSync(
+    // const hotspotsCSV = fs.readFileSync(
+    //     "./data/hotspots.csv",
+    //     "utf8"
+    // );
+    const materialsJSON: TMatJSON = JSON.parse(fs.readFileSync(
         "./data/materials.json",
         "utf8"
     ));
@@ -88,67 +108,54 @@ async function main() {
                 priceData[id].timestamp;
         });
 
-    const hotspotsSplitByLine =
-        hotspotsCSV.split("\n")
-            .map((e: string) => {
-                const splitLine = e.split(",");
-                return [
-                    splitLine[0].trim(),
-                    splitLine[1].trim(),
-                    (splitLine.slice(2).join(",")).trim()
-                ];
-            });
+    // const hotspotsSplitByLine =
+    //     hotspotsCSV.split("\n")
+    //         .map((e: string) => {
+    //             const splitLine = e.split(",");
+    //             return [
+    //                 splitLine[0].trim(),
+    //                 splitLine[1].trim(),
+    //                 (splitLine.slice(2).join(",")).trim()
+    //             ];
+    //         });
 
-    const hotspots: Record<string, {
-        level: number;
-        materials: string[];
-
-        afkFactor: number;
-        avgPrice: number;
-        score: number;
-        minPrice: number;
-        maxPrice: number;
-        priceVolatility: number;
-
-        lastUpdated: number;
-    }> = {};
+    const hotspots: THotspotJSON = JSON.parse(
+        fs.readFileSync("./data/hotspots.json", "utf8")
+    );
     const now = Date.now();
-    hotspotsSplitByLine.forEach((e: [string, string, string]) => {
-        const res = {
-            level: parseInt(e[1]),
-            materials: e[2]
-                .replace(/"/g, "")
-                .split(","),
-            lastUpdated: now,
+    Object.keys(hotspots)
+        .forEach((e) => {
+            const hotspot = hotspots[e];
 
-            afkFactor: -1,
-            avgPrice: -1,
-            minPrice: -1,
-            maxPrice: -1,
-            priceVolatility: -1,
-            score: -1,
-        };
+            hotspot.afkFactor = 1 - inverseExponentialScale(hotspot.level);
+            const prices =
+                materialNames
+                    .filter((str: string) => {
+                        return Boolean(hotspot.materials.find((m) => m.name === str));
+                    })
+                    .map((e: string) => {
+                        return materialsJSON[e].price as number;
+                    });
+            hotspot.minPrice = Math.min(...prices);
+            hotspot.maxPrice = Math.max(...prices);
+            hotspot.avgPrice = averageArray(prices);
+            const adjPrices: number[] = [];
+            hotspot.materials.forEach((m, i) => {
+                adjPrices.push(
+                    prices[i] * m.percentageChance
+                );
+            });
+            hotspot.avgPrice = adjPrices.reduce((accumulator, currentValue) => {
+                return accumulator + currentValue;
+            }, 0);
 
-        res.afkFactor = 1 - inverseExponentialScale(res.level);
-        const prices =
-            materialNames
-                .filter((e: string) => {
-                    return res.materials.indexOf(e) !== -1;
-                })
-                .map((e: string) => {
-                    return materialsJSON[e].price as number;
-                });
-        res.minPrice = Math.min(...prices);
-        res.maxPrice = Math.max(...prices);
-        res.avgPrice = averageArray(prices);
+            hotspot.lastUpdated = now;
 
-        res.priceVolatility =
-            (((res.maxPrice - res.minPrice) / res.maxPrice));
+            hotspot.priceVolatility =
+                (((hotspot.maxPrice - hotspot.minPrice) / hotspot.maxPrice));
 
-        res.score = res.afkFactor * res.avgPrice * ((1-res.priceVolatility));
-
-        hotspots[e[0]] = res;
-    });
+            hotspot.score = hotspot.afkFactor * hotspot.avgPrice * ((1-hotspot.priceVolatility));
+        });
 
     console.log(`
 *AFK factor means how long you can AFK there without banking artefacts
@@ -170,7 +177,6 @@ async function main() {
     console.log(`The best hotspot at the moment overall is: `);
     logHotspot(bestHotspot, bestHotspotName);
 
-
     let highestMoneyScore = -1;
     let mostMoneyHotspotName = "";
     let mostMoneyHotspot = null;
@@ -185,7 +191,6 @@ async function main() {
         });
     console.log(`The best hotspot at the moment for money is: `);
     logHotspot(mostMoneyHotspot, mostMoneyHotspotName);
-
 
     let altHighestMoneyScore = -1;
     let altMostMoneyHotspotName = "";
@@ -202,9 +207,8 @@ async function main() {
     console.log(`An alternative best hotspot at the moment for money is: `);
     logHotspot(altMostMoneyHotspot, altMostMoneyHotspotName);
 
-
     fs.writeFileSync(
-        "./output.json",
+        "./data/hotspots.json",
         JSON.stringify(hotspots, null, "  "),
         "utf8"
     );

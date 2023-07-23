@@ -1,7 +1,7 @@
 {
   "Centurion remains": {
     "level": 1,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.2529048600754813,
     "avgPrice": null,
     "minPrice": null,
@@ -21,7 +21,7 @@
   },
   "Venator remains": {
     "level": 5,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.26486577358982444,
     "avgPrice": 5383,
     "minPrice": 4730,
@@ -41,7 +41,7 @@
   },
   "Legionary remains": {
     "level": 12,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.2871745887492594,
     "avgPrice": 3041,
     "minPrice": 1994,
@@ -65,7 +65,7 @@
   },
   "Fort debris": {
     "level": 12,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.2871745887492594,
     "avgPrice": 3789.75,
     "minPrice": 1994,
@@ -93,7 +93,7 @@
   },
   "Castra debris": {
     "level": 17,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.3042508784176484,
     "avgPrice": 3753.75,
     "minPrice": 1850,
@@ -121,7 +121,7 @@
   },
   "Lodge bar storage": {
     "level": 20,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.314980262473719,
     "avgPrice": 3152.3333333333335,
     "minPrice": 2161,
@@ -145,7 +145,7 @@
   },
   "Lodge art storage": {
     "level": 24,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.3298769776932242,
     "avgPrice": 3870.5,
     "minPrice": 1850,
@@ -173,7 +173,7 @@
   },
   "Administratum debris": {
     "level": 25,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.33370996354250937,
     "avgPrice": 3852.5,
     "minPrice": 1967,
@@ -201,7 +201,7 @@
   },
   "Cultist footlocker": {
     "level": 29,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.3494924835447556,
     "avgPrice": 3577.75,
     "minPrice": 2046,
@@ -229,7 +229,7 @@
   },
   "Sacrificial altar": {
     "level": 36,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.37892914162760016,
     "avgPrice": 6006,
     "minPrice": 1943,
@@ -257,7 +257,7 @@
   },
   "Prodromoi remains": {
     "level": 42,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.40612619817811846,
     "avgPrice": 3637,
     "minPrice": 2116,
@@ -281,7 +281,7 @@
   },
   "Dis dungeon debris": {
     "level": 45,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.420448207626858,
     "avgPrice": 5643.75,
     "minPrice": 1943,
@@ -309,7 +309,7 @@
   },
   "Praesidio remains": {
     "level": 47,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.43027571862216574,
     "avgPrice": 2713,
     "minPrice": 1967,
@@ -337,7 +337,7 @@
   },
   "Monoceros remains": {
     "level": 48,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.43527528164806273,
     "avgPrice": 5290.333333333333,
     "minPrice": 2046,
@@ -361,7 +361,7 @@
   },
   "Orthen rubble": {
     "level": 90,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.7071067811865479,
     "avgPrice": 2566,
     "minPrice": 2566,
@@ -376,7 +376,7 @@
   },
   "Dragonkin remains": {
     "level": 70,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.5612310241546871,
     "avgPrice": 2566,
     "minPrice": 2566,
@@ -391,7 +391,7 @@
   },
   "Amphitheatre debris": {
     "level": 51,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.45062523130541576,
     "avgPrice": 4277,
     "minPrice": 1850,
@@ -419,7 +419,7 @@
   },
   "Ceramics studio debris": {
     "level": 56,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.47742080195520886,
     "avgPrice": 2138.5,
     "minPrice": 2116,
@@ -439,7 +439,7 @@
   },
   "Carcerem debris": {
     "level": 58,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.4885799842171237,
     "avgPrice": 3835.25,
     "minPrice": 1892,
@@ -467,7 +467,7 @@
   },
   "Ministry remains": {
     "level": 60,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.5000000000000007,
     "avgPrice": 2872.75,
     "minPrice": 1967,
@@ -495,7 +495,7 @@
   },
   "Stadio debris": {
     "level": 61,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.5058097201509619,
     "avgPrice": 4524.5,
     "minPrice": 2399,
@@ -523,7 +523,7 @@
   },
   "Cathedral debris": {
     "level": 62,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.5116869459983882,
     "avgPrice": 3932.75,
     "minPrice": 1850,
@@ -551,7 +551,7 @@
   },
   "Marketplace debris": {
     "level": 63,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.5176324619206893,
     "avgPrice": 2774.75,
     "minPrice": 1892,
@@ -579,7 +579,7 @@
   },
   "Inquisitor remains": {
     "level": 64,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.523647061410314,
     "avgPrice": 4950.5,
     "minPrice": 2046,
@@ -607,7 +607,7 @@
   },
   "Infernal art": {
     "level": 65,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.5297315471796482,
     "avgPrice": 3937.75,
     "minPrice": 1850,
@@ -635,7 +635,7 @@
   },
   "Gladiator remains": {
     "level": 66,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.5358867312681472,
     "avgPrice": 3832,
     "minPrice": 1967,
@@ -663,7 +663,7 @@
   },
   "Citizen remains": {
     "level": 67,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.5421134351507098,
     "avgPrice": 2854,
     "minPrice": 1892,
@@ -691,7 +691,7 @@
   },
   "Shakroth remains": {
     "level": 68,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.5484124898473136,
     "avgPrice": 5669.5,
     "minPrice": 2046,
@@ -719,7 +719,7 @@
   },
   "Dominion Games podium": {
     "level": 69,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.5547847360339231,
     "avgPrice": 4456,
     "minPrice": 2161,
@@ -747,7 +747,7 @@
   },
   "Ikovian memorial": {
     "level": 70,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.5612310241546871,
     "avgPrice": 3760.75,
     "minPrice": 1850,
@@ -775,7 +775,7 @@
   },
   "Oikos studio debris": {
     "level": 72,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.5743491774985181,
     "avgPrice": 5533.5,
     "minPrice": 2116,
@@ -803,7 +803,7 @@
   },
   "Kharid-et chapel debris": {
     "level": 74,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.5877739531418049,
     "avgPrice": 3496.75,
     "minPrice": 1850,
@@ -831,7 +831,7 @@
   },
   "Forum entrance": {
     "level": 74,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.5877739531418049,
     "avgPrice": 3388,
     "minPrice": 1967,
@@ -858,7 +858,7 @@
   },
   "Gladiatorial goblin remains": {
     "level": 76,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.6015125180410589,
     "avgPrice": 5858.25,
     "minPrice": 2301,
@@ -886,7 +886,7 @@
   },
   "Keshik ger": {
     "level": 76,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.6015125180410589,
     "avgPrice": 5957.5,
     "minPrice": 1850,
@@ -914,7 +914,7 @@
   },
   "Animal trophies": {
     "level": 81,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.6372803136596317,
     "avgPrice": 6580.5,
     "minPrice": 2566,
@@ -942,7 +942,7 @@
   },
   "Pontifex remains": {
     "level": 81,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.6372803136596317,
     "avgPrice": 3039.5,
     "minPrice": 1967,
@@ -970,7 +970,7 @@
   },
   "Crucible stands debris": {
     "level": 81,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.6372803136596317,
     "avgPrice": 3358.6666666666665,
     "minPrice": 2047,
@@ -997,7 +997,7 @@
   },
   "Tailory debris": {
     "level": 81,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.6372803136596317,
     "avgPrice": 6123.5,
     "minPrice": 2161,
@@ -1025,7 +1025,7 @@
   },
   "Goblin dorm debris": {
     "level": 83,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.6521760348827826,
     "avgPrice": 4853.25,
     "minPrice": 1850,
@@ -1052,7 +1052,7 @@
   },
   "Barricade": {
     "level": 83,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.6521760348827826,
     "avgPrice": 4853.25,
     "minPrice": 1850,
@@ -1076,7 +1076,7 @@
   },
   "Oikos fishing hut remnants": {
     "level": 84,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.6597539553864477,
     "avgPrice": 4997,
     "minPrice": 2161,
@@ -1104,7 +1104,7 @@
   },
   "Weapons research debris": {
     "level": 85,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.6674199270850176,
     "avgPrice": 4204.25,
     "minPrice": 2566,
@@ -1132,7 +1132,7 @@
   },
   "Orcus altar": {
     "level": 86,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.6751749730840955,
     "avgPrice": 3793.5,
     "minPrice": 1892,
@@ -1160,7 +1160,7 @@
   },
   "Dis overspill": {
     "level": 89,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.6989849670895102,
     "avgPrice": 6648.25,
     "minPrice": 1943,
@@ -1188,7 +1188,7 @@
   },
   "Big High War God shrine": {
     "level": 89,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.6989849670895102,
     "avgPrice": 4084.75,
     "minPrice": 2161,
@@ -1216,7 +1216,7 @@
   },
   "Varanusaur remains": {
     "level": 90,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.7071067811865479,
     "avgPrice": 2523.6666666666665,
     "minPrice": 2161,
@@ -1243,7 +1243,7 @@
   },
   "Gravitron research debris": {
     "level": 91,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.7153229662176297,
     "avgPrice": 3296,
     "minPrice": 2046,
@@ -1271,7 +1271,7 @@
   },
   "Acropolis debris": {
     "level": 92,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.7236346187201894,
     "avgPrice": 3633.75,
     "minPrice": 2116,
@@ -1299,7 +1299,7 @@
   },
   "Armarium debris": {
     "level": 93,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.7320428479728132,
     "avgPrice": 4253.333333333333,
     "minPrice": 1994,
@@ -1326,7 +1326,7 @@
   },
   "Yu'biusk animal pen": {
     "level": 94,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.7405487761432825,
     "avgPrice": 3965,
     "minPrice": 2047,
@@ -1350,7 +1350,7 @@
   },
   "Keshik tower debris": {
     "level": 95,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.7491535384383412,
     "avgPrice": 3118.5,
     "minPrice": 1850,
@@ -1378,7 +1378,7 @@
   },
   "Dragonkin reliquary": {
     "level": 96,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.7578582832551994,
     "avgPrice": 3733.3333333333335,
     "minPrice": 2161,
@@ -1402,7 +1402,7 @@
   },
   "Goblin trainee remains": {
     "level": 97,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.7666641723348007,
     "avgPrice": 3637.75,
     "minPrice": 2046,
@@ -1430,7 +1430,7 @@
   },
   "Byzroth remains": {
     "level": 98,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.7755723809168676,
     "avgPrice": 4260.25,
     "minPrice": 1850,
@@ -1458,7 +1458,7 @@
   },
   "Destroyed golem": {
     "level": 98,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.7755723809168676,
     "avgPrice": 3230,
     "minPrice": 1892,
@@ -1486,7 +1486,7 @@
   },
   "Dragonkin coffin": {
     "level": 99,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.7845840978967511,
     "avgPrice": 3928.25,
     "minPrice": 2284,
@@ -1514,7 +1514,7 @@
   },
   "Icyene weapon rack": {
     "level": 100,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.7937005259841001,
     "avgPrice": 4119.5,
     "minPrice": 2046,
@@ -1534,7 +1534,7 @@
   },
   "Culinarum debris": {
     "level": 100,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.7937005259841001,
     "avgPrice": 3793.5,
     "minPrice": 1892,
@@ -1562,7 +1562,7 @@
   },
   "Kyzaj champion's boudoir": {
     "level": 100,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.7937005259841001,
     "avgPrice": 3245.6666666666665,
     "minPrice": 1850,
@@ -1583,7 +1583,7 @@
   },
   "Autopsy table": {
     "level": 101,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.8029228818633768,
     "avgPrice": 3793,
     "minPrice": 2566,
@@ -1607,7 +1607,7 @@
   },
   "Experiment workbench": {
     "level": 102,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.8122523963562358,
     "avgPrice": 5624,
     "minPrice": 2566,
@@ -1631,7 +1631,7 @@
   },
   "Keshik weapon rack": {
     "level": 103,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.8216903145857906,
     "avgPrice": 4301.75,
     "minPrice": 2847,
@@ -1659,7 +1659,7 @@
   },
   "Hellfire forge": {
     "level": 104,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.8312378961427881,
     "avgPrice": 6648.25,
     "minPrice": 1943,
@@ -1687,7 +1687,7 @@
   },
   "Warforge scrap pile": {
     "level": 104,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.8312378961427881,
     "avgPrice": 5229,
     "minPrice": 4730,
@@ -1707,7 +1707,7 @@
   },
   "Stockpiled art": {
     "level": 105,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.8408964152537148,
     "avgPrice": 3975.25,
     "minPrice": 1850,
@@ -1735,7 +1735,7 @@
   },
   "Aughra remains": {
     "level": 106,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.8506671609508559,
     "avgPrice": 4912.5,
     "minPrice": 2526,
@@ -1763,7 +1763,7 @@
   },
   "Ancient magick munitions": {
     "level": 107,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.8605514372443304,
     "avgPrice": 3793.5,
     "minPrice": 1892,
@@ -1791,7 +1791,7 @@
   },
   "Moksha device": {
     "level": 108,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.8705505632961243,
     "avgPrice": 4476.333333333333,
     "minPrice": 2526,
@@ -1818,7 +1818,7 @@
   },
   "Bibliotheke debris": {
     "level": 109,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.8806658735961487,
     "avgPrice": 3268.25,
     "minPrice": 1892,
@@ -1846,7 +1846,7 @@
   },
   "Chthonian trophies": {
     "level": 110,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.8908987181403395,
     "avgPrice": 2987.75,
     "minPrice": 1850,
@@ -1874,7 +1874,7 @@
   },
   "Warforge weapon rack": {
     "level": 110,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.8908987181403395,
     "avgPrice": 5751,
     "minPrice": 2047,
@@ -1898,7 +1898,7 @@
   },
   "Flight research debris": {
     "level": 111,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.9012504626108304,
     "avgPrice": 4463.25,
     "minPrice": 2046,
@@ -1926,7 +1926,7 @@
   },
   "Aetherium forge": {
     "level": 112,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.9117224885582169,
     "avgPrice": 3438,
     "minPrice": 2161,
@@ -1954,7 +1954,7 @@
   },
   "Xolo mine": {
     "level": 113,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.9223161935859394,
     "avgPrice": 5489,
     "minPrice": 2161,
@@ -1981,7 +1981,7 @@
   },
   "Praetorian remains": {
     "level": 114,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.9330329915368075,
     "avgPrice": 3099,
     "minPrice": 1967,
@@ -2009,7 +2009,7 @@
   },
   "Bandos's sanctum debris": {
     "level": 115,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.9438743126816936,
     "avgPrice": 4806,
     "minPrice": 2047,
@@ -2033,7 +2033,7 @@
   },
   "Tsutsaroth remains": {
     "level": 116,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.9548416039104166,
     "avgPrice": 4853.25,
     "minPrice": 1943,
@@ -2061,7 +2061,7 @@
   },
   "Optimatoi remains": {
     "level": 117,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.9659363289248456,
     "avgPrice": 3480.6666666666665,
     "minPrice": 1850,
@@ -2085,7 +2085,7 @@
   },
   "War table debris": {
     "level": 118,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.977159968434246,
     "avgPrice": 2738.75,
     "minPrice": 1850,
@@ -2113,7 +2113,7 @@
   },
   "Howl's workshop debris": {
     "level": 118,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.977159968434246,
     "avgPrice": 5467.5,
     "minPrice": 2284,
@@ -2137,7 +2137,7 @@
   },
   "Makeshift pie oven": {
     "level": 119,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.9885140203528962,
     "avgPrice": 4640.333333333333,
     "minPrice": 2159,
@@ -2160,7 +2160,7 @@
   },
   "Xolo remains": {
     "level": 119,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 0.9885140203528962,
     "avgPrice": 4764.75,
     "minPrice": 2161,
@@ -2188,7 +2188,7 @@
   },
   "Saurthen debris": {
     "level": 120,
-    "lastUpdated": 1690125663836,
+    "lastUpdated": 1690126497493,
     "afkFactor": 1,
     "avgPrice": 5489,
     "minPrice": 2161,
