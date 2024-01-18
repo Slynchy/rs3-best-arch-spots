@@ -1,22 +1,18 @@
 import * as fs from "fs";
 import _fetch, { Headers } from "node-fetch";
+import { THotspot } from "./types/THotspot";
 
-type THotspot = {
-    level: number;
-    materials: {
-        name: string,
-        percentageChance: number,
-    }[];
+const RADIANT_ENERGY_ID = "29322";
+const RUBY_NECKLACE_ID = "1660";
+const PORTER_ENERGY_REQ = 60;
+const PORTER_CHARGES = 25;
 
-    afkFactor: number;
-    avgPrice: number;
-    score: number;
-    minPrice: number;
-    maxPrice: number;
-    priceVolatility: number;
+// gotta change to 2000 for lucky dark core people
+const PORTER_AMOUNT = 500;
 
-    lastUpdated: number;
-};
+let porterCostPerCharge: number = -1;
+let porterCostPerCharge_divHeadgear: number = -1;
+
 type THotspotJSON = Record<string, THotspot>;
 
 type TMatJSON = Record<string, {
@@ -51,6 +47,7 @@ function logHotspot(_hotspot, _hotspotName) {
   
   GP range per gather:   ${_hotspot.minPrice} - ${_hotspot.maxPrice}
   Average GP per gather: ~${Math.round(_hotspot.avgPrice)}
+  Avg GP per mat w/ porter: ~${Math.round(_hotspot.avgPrice - porterCostPerCharge_divHeadgear)}
   Price volatility:      ${_hotspot.priceVolatility * 100}%
   
   AFK factor:            ~${Math.round(_hotspot.afkFactor * 100)}%
@@ -76,6 +73,8 @@ async function main() {
         const id = entry.id;
         requestUrl += `${id}${i === materialNames.length - 1 ? "" : "%7C"}`;
     });
+    requestUrl += `%7C${RADIANT_ENERGY_ID}`; // radiant energy
+    requestUrl += `%7C${RUBY_NECKLACE_ID}`; // ruby necklace
     requestUrl += "&lang=en";
 
     const priceData: Readonly<TPriceData> =
@@ -93,8 +92,18 @@ async function main() {
     if(!priceData)
         throw new Error("Failed to retrieve pricedata from api.weirdgloop.org");
 
+    let radiantEnergyPrice = -1;
+    let rubyNecklacePrice = -1;
     Object.keys(priceData)
         .forEach((id: string, i: number) => {
+            if(id === RADIANT_ENERGY_ID) {
+                radiantEnergyPrice = priceData[id].price;
+                return;
+            } else if(id === RUBY_NECKLACE_ID) {
+                rubyNecklacePrice = priceData[id].price;
+                return;
+            }
+
             const materialName: string | undefined = materialNames.find(
                 (e) => materialsJSON[e].id === id
             );
@@ -107,6 +116,10 @@ async function main() {
             materialsJSON[materialName].timestamp =
                 priceData[id].timestamp;
         });
+    porterCostPerCharge = (
+        (PORTER_ENERGY_REQ * radiantEnergyPrice) + rubyNecklacePrice
+    ) / PORTER_CHARGES;
+    porterCostPerCharge_divHeadgear = porterCostPerCharge * 0.9;
 
     // const hotspotsSplitByLine =
     //     hotspotsCSV.split("\n")
@@ -138,7 +151,7 @@ async function main() {
                     });
             hotspot.minPrice = Math.min(...prices);
             hotspot.maxPrice = Math.max(...prices);
-            hotspot.avgPrice = averageArray(prices);
+            // hotspot.avgPrice = averageArray(prices);
             const adjPrices: number[] = [];
             hotspot.materials.forEach((m, i) => {
                 adjPrices.push(
@@ -154,7 +167,7 @@ async function main() {
             hotspot.priceVolatility =
                 (((hotspot.maxPrice - hotspot.minPrice) / hotspot.maxPrice));
 
-            hotspot.score = hotspot.afkFactor * hotspot.avgPrice * ((1-hotspot.priceVolatility));
+            hotspot.score = hotspot.afkFactor * (hotspot.avgPrice - porterCostPerCharge_divHeadgear) * ((1-hotspot.priceVolatility));
         });
 
     console.log(`
